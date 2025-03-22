@@ -1,0 +1,22 @@
+C# dilinde kullanılan erişim belirleyiciler (access modifiers), sınıfların, metodların ve değişkenlerin erişilebilirlik seviyelerini belirler. Bunlar:
+
+1. Public (Genel)
+Tanım: Bir public üye, projenin her yerinden erişilebilir.
+
+Gerçek Hayattan Örnek: Bir kütüphane düşünelim. Kütüphanedeki kitap katalog sistemi, herkesin erişebileceği bir bilgi olduğu için public olarak düşünülebilir.
+
+
+2. Private (Özel)
+Tanım: Bir private üye, yalnızca tanımlandığı sınıf içerisinden erişilebilir.
+
+Gerçek Hayattan Örnek: Bir banka kasasının şifre mekanizması düşünelim. Şifre sadece kasa içinde kullanılır ve dışarıdan erişilemez. Bu nedenle private olmalıdır.
+
+3. Protected (Korumalı)
+Tanım: Bir protected üye, sadece tanımlandığı sınıf ve ondan türetilen (miras alan) alt sınıflar tarafından erişilebilir.
+
+Gerçek Hayattan Örnek: Bir aile şirketinde babadan oğula geçen bir iş sırrı düşünelim. Bu sır, aile üyeleri tarafından bilinir ancak dışarıdan erişilemez.
+
+4. Internal (Dahili)
+Tanım: Bir internal üye, sadece tanımlandığı aynı proje (assembly) içerisinden erişilebilir.
+
+Gerçek Hayattan Örnek: Bir şirketin iç haberleşme sistemi sadece şirket içindeki çalışanlar tarafından kullanılabilir. Dışarıdan kimse erişemez.

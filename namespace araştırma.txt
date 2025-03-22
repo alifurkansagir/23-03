@@ -1,0 +1,1 @@
+Namespace (İsim Uzayı), C#’ta kodu mantıksal olarak gruplamak ve isim çakışmalarını önlemek için kullanılan bir yapıdır. Özellikle büyük projelerde, farklı bileşenleri organize etmek ve aynı isimdeki sınıfların birbirine karışmasını engellemek için kullanılır.
