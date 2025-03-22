@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayı Tahmin Oyunu", "Sayı Tahmin Oyunu\Sayı Tahmin Oyunu.csproj", "{CD0CC1EE-B094-4EA5-B96C-29F7B5F490B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0CC1EE-B094-4EA5-B96C-29F7B5F490B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0CC1EE-B094-4EA5-B96C-29F7B5F490B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0CC1EE-B094-4EA5-B96C-29F7B5F490B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0CC1EE-B094-4EA5-B96C-29F7B5F490B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A85C14-099E-475F-8923-05F74B37DF2D}
+	EndGlobalSection
+EndGlobal
